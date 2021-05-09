@@ -5,7 +5,7 @@
   # I'm Uttaran Sarkar 😃  
   
 
-- 🔭 An enthusiastic coder, currently pursuing my Bachelor of Engineering degree at the Thapar Institute of Engineering and Technology  
+- 🔭 An enthusiastic coder, currently pursuing my Bachelor of Engineering degree at the Thapar Institute of Engineering and Technology, India  
   
 
 - 🌱 Passionate about bringing about change via technology  
