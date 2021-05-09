@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
- # I'm Uttaran Sarkar 😃  
+
+  # I'm Uttaran Sarkar 😃  
   
 
 - 🔭 An enthusiastic coder, currently pursuing my Bachelor of Engineering degree at the Thapar Institute of Engineering and Technology  
