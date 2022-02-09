@@ -43,10 +43,10 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />
-<img style="margin: 10px" src="https://www.tc-web.it/wp-content/uploads/2019/12/JSP-logo-02.jpg" alt="JSP" height="75" /> 
-<img style="margin: 10px" src="https://i2gether.com/img/ourworks/servlets-logo.png" alt="Servlets" height="100" /> 
+<img style="margin: 10px" src="https://static.javatpoint.com/images/jsp/jsp2.jpg" alt="JSP" height="75" /> 
+<img style="margin: 10px" src="https://server2client.com/images/servletslogo.webp" alt="Servlets" height="100" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="100" />
-<img style="margin: 10px" src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/f1bf0afc7f29f102e2ce2e8aeec18a48/java_ee_logo_vert_v2.png" alt="Java" height="125" /> 
+<img style="margin: 10px" src="https://cdn.vox-cdn.com/thumbor/VoXJ8IaxCj5_U-366JhtUHLkdQ0=/0x0:640x427/1400x1050/filters:focal(0x0:640x427):format(jpeg)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" alt="Java" height="100" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="75" />  
 </div>
